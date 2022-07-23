@@ -1,0 +1,31 @@
+Documented Changes made to D2R
+
+Sorceress:
+    Thunder Storm:
+        - Modified it to fork to nearby enemies based on Chain Lightning level
+        - Modified it to hit faster based on Teleports level
+    
+    Shatter Strike:
+        - New Skill similar to Amazons Charged Strike. Melee Cold Attack that creates Ice Bolts
+        - Replaces Frozen Armor
+    
+New Items:
+    Alteration Orb
+    Chaos Orb
+    Vaal Orb
+    Jewellers Orb
+
+New Item Modifiers:
+    Added melee splash affix to jewels
+
+Shortened names of a few items to reduce clutter
+
+Reduced the chance for NoDrop in most scenarios
+
+Removed Quantity for Bow/Javelin/Throwing Skills
+
+
+
+### IDEAS ###
+
+Barb: throw skill 50% magic dmg convert chains to enemies
