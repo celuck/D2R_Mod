@@ -168,4 +168,4 @@ Runeword167	Wonder																																																0
 Runeword168	Wrath	1		Previously Ladder Only	miss									PulLumBerMal	r21	r17	r30	r23			dmg-demon		300	300	dmg-undead		250	300	dmg-ltng		41	240	dmg-mag		85	120	hit-skill	Life Tap	5	10	hit-skill	Decrepify	30	1	nofreeze		1	1	0
 Runeword169	Youth																																																0
 Runeword170	Zephyr	1		109	miss									OrtEth	r09	r05					move2		25	25	swing2		25	25	dmg%		33	33	att		66	66	gethit-skill	240	7	1	ac		25	25					0
-Runeword171	Frostbite	1		Initial Release	mele									ThulIstPulShael	r10	r24	r21	r13			swing2		15	25	pierce-cold		10	15	hit-skill	Frost Nova	15	10	res-cold		20	40	coldskill		2	2									0
+Runeword171	Frostbite	1		Initial Release	weap									ThulIstPulShael	r10	r24	r21	r13			swing2		15	25	pierce-cold		10	15	hit-skill	Frost Nova	15	10	res-cold		20	40	coldskill		2	2									0
