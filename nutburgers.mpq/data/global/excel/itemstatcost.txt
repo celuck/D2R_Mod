@@ -362,7 +362,7 @@ skill_cooldown	359			32	16																																														0
 skill_missile_damage_scale	360			32	16																																														0
 item_splashonhit	361		1	7	16						1			2	190	256		21	0	7	0	16										1	domeleedamage	20			160	15	0	splash3	splash3										0
 item_corrupted	362		1	12									0		8	2		8	0	8	0																														0
-item_corruptiondummystat	363		1	12									0		8	2		8	0	8	0																299	1	1	Corrupted	Corrupted										0
+item_corruptiondummystat	363		1	12									0		8	2		8	0	8	0																														0
 item_infernoproj	364		1	12											190	256		8	0	8	0	16															299	1	1	InfernoProj	InfernoProj										0
 item_corruptstring	365		1	12									0		8	2		8	0	8	0																300	20	0	Corrupted	Corrupted										0
 item_healonhit	366		1	7							1				30	101		3	0	7	0												domeleedamage	28	domissiledamage	28	16	19		HealOnHit	HealOnHit									2	0
