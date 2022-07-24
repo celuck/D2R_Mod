@@ -277,3 +277,5 @@ corruptstring	1	1	item_corruptstring																											Corrupted					0
 aura-rand	1	12	item_aura																													lowest skill id	highest skill id		0
 heal-hit	1	1	item_healonhit																																0
 mana-hit	1	1	item_manaonhit																																0
+coldskill	1	21	item_elemskill		4	1	item_elemskill_cold																							+# to Fire Skills		Min #	Max #		0
+ltngskill	1	21	item_elemskill		2	1	item_elemskill_ltng																							+# to Fire Skills		Min #	Max #		0

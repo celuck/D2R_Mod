@@ -5863,5 +5863,39 @@
     "ptBR": "%+d pontos de vida após cada abate",
     "ruRU": "%+d здоровья при убийстве",
     "zhCN": "%+d 每次消灭恢复的生命"
+  },
+  {
+    "id": 59007,
+    "Key": "toColdSkills",
+    "enUS": "%+d to Cold Skills",
+    "zhTW": "%+d 火焰技能",
+    "deDE": "%+d zu Feuerfertigkeiten",
+    "esES": "%+d a los hechizos de fuego",
+    "frFR": "%+d aux compétences de Feu",
+    "itIT": "%+d alle abilità di fuoco",
+    "koKR": "화염 기술 %+d",
+    "plPL": "%+d do umiejętności ognia",
+    "esMX": "%+d a las habilidades de Fuego",
+    "jaJP": "〈火炎〉スキル向上（%+d）",
+    "ptBR": "%+d para habilidades ígneas",
+    "ruRU": "%+d к умениям огня",
+    "zhCN": "%+d 火焰技能"
+  },
+  {
+    "id": 59008,
+    "Key": "toLtngSkills",
+    "enUS": "%+d to Lightning Skills",
+    "zhTW": "%+d 火焰技能",
+    "deDE": "%+d zu Feuerfertigkeiten",
+    "esES": "%+d a los hechizos de fuego",
+    "frFR": "%+d aux compétences de Feu",
+    "itIT": "%+d alle abilità di fuoco",
+    "koKR": "화염 기술 %+d",
+    "plPL": "%+d do umiejętności ognia",
+    "esMX": "%+d a las habilidades de Fuego",
+    "jaJP": "〈火炎〉スキル向上（%+d）",
+    "ptBR": "%+d para habilidades ígneas",
+    "ruRU": "%+d к умениям огня",
+    "zhCN": "%+d 火焰技能"
   }
 ]
