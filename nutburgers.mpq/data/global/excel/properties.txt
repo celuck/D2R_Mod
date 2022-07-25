@@ -102,7 +102,7 @@ dmg-undead	1	1	item_undeaddamage_percent																											+#% Damage to
 att-demon	1	1	item_demon_tohit																											+# to Attack Rating against Demons		Min #	Max #		0
 att-undead	1	1	item_undead_tohit																											+# to Attack Rating against Undead		Min #	Max #		0
 throw	1	1	item_throwable																													1	1	Currently Not Used	0
-fireskill	1	21	item_elemskill		1																									+# to Fire Skills		Min #	Max #		0
+fireskill	1	21	item_elemskill		1	1	item_elemskill_fire																							+# to Fire Skills		Min #	Max #		0
 allskills	1	1	item_allskills																											+# to All Skills		Min #	Max #		0
 light-thorns	1	1	item_attackertakeslightdamage																											Attacker Takes Lightning Damage of #		Min #	Max #		0
 freeze	1	1	item_freeze																											Freezes Target +#		Min #	Max #		0
@@ -279,3 +279,4 @@ heal-hit	1	1	item_healonhit																																0
 mana-hit	1	1	item_manaonhit																																0
 coldskill	1	21	item_elemskill		4	1	item_elemskill_cold																							+# to Fire Skills		Min #	Max #		0
 ltngskill	1	21	item_elemskill		2	1	item_elemskill_ltng																							+# to Fire Skills		Min #	Max #		0
+additionalproj	1	1	item_additionalproj																											+# additional Projectiles for Skills					0

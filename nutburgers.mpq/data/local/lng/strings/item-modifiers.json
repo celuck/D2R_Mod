@@ -5897,5 +5897,22 @@
     "ptBR": "%+d para habilidades ígneas",
     "ruRU": "%+d к умениям огня",
     "zhCN": "%+d 火焰技能"
+  },
+  {
+    "id": 59009,
+    "Key": "AdditionalProj",
+    "enUS": "additional projectiles for Skills",
+    "zhTW": "召喚狂狼",
+    "deDE": "Ents.-W. ruf.",
+    "esES": "lobo atroz",
+    "frFR": "Loup",
+    "itIT": "Ev. Lupo Orr.",
+    "koKR": "다이어 울프",
+    "plPL": "Upiorny Wilk",
+    "esMX": "%s: %+d%% de probabilidad por nivel",
+    "jaJP": "%s: レベルごとに発生率増加（%+d%%）",
+    "ptBR": "%s: %+d%% de chance por nível",
+    "ruRU": "%s: %+d%% к вероятности за уровень",
+    "zhCN": "%s: 每等级几率 %+d%%"
   }
 ]
