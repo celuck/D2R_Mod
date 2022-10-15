@@ -699,5 +699,10 @@
     "leapattack": "b_a_yell_shock_wave_01",
     "shatterstrikebolt": "icebolt",
     "thunderstormbolt": "lightningbolt_big",
-    "thunderstormnova": "furylightning"
+    "thunderstormnova": "furylightning",
+    "etherealthrow": "bone_spear",
+    "etherealthrowexp1": "freeze_explode_center",
+    "etherealthrowexp2": "freeze_explode_ejecta",
+    "etherealthrowexp3": "null",
+    "ricochet": "javelin"
 }
