@@ -35923,7 +35923,7 @@
   {
     "id": 55013,
     "Key": "TStormDelaySingular",
-    "enUS": "Delay between Hits: %d second",
+    "enUS": "Delay between Hits: %d second (scales with cast rate)",
     "zhTW": "%0：每 %2 級電能彈數量 %+1",
     "deDE": "%s: %+d Bolzen alle %d Stufen",
     "esES": "%s: %+d descarga por cada %d niveles",
@@ -35940,7 +35940,7 @@
   {
     "id": 55014,
     "Key": "TStormDelayPlural",
-    "enUS": "Delay between Hits: %d seconds",
+    "enUS": "Delay between Hits: %d seconds (scales with cast rate)",
     "zhTW": "%0：每 %2 級電能彈數量 %+1",
     "deDE": "%s: %+d Bolzen alle %d Stufen",
     "esES": "%s: %+d descarga por cada %d niveles",
