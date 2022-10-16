@@ -25,11 +25,14 @@ Sorceress:
 
     Thunder Storm:
         - Modified it to fork to nearby enemies based on Chain Lightning level
-        - Modified it to hit faster based on Teleports level
+        - Modified it to hit faster based on faster cast rate (1 frame per 5% capped at 150% fcr)
     
     Shatter Strike:
         - New Skill similar to Amazons Charged Strike. Melee Cold Attack that creates Ice Bolts
         - Replaces Frozen Armor
+
+    Masteries:``
+        - Gave them all a smaller diminishing bonus opposite of their normal effect (either pierce or damage)
 
     
 New Items:
@@ -150,8 +153,8 @@ New Items:
 
 
 New Item Modifiers:
-    Added melee splash affix to jewels
-    Added +# to Cold/Lightning Skills
+    - Added melee splash affix to jewels
+    - Added +# to Cold/Lightning Skills
 
 Shortened names of a few items to reduce clutter
 
