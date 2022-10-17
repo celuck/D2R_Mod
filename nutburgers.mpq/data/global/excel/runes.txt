@@ -142,7 +142,7 @@ Runeword141	Temptation																																																0
 Runeword142	Terror																																																0
 Runeword143	Thirst																																																0
 Runeword144	Thought																																																0
-Runeword145	Thunder	1			staf									HelTirKoMalGul	r15	r03	r18	r23	r25		skilltab	4	3	4	skill	57	3	4	cast3		60	60	balance3		20	35	res-all		10	20	dex		15	20					0
+Runeword145	Thunder	1			staf									LemOrtOhmIst	r20	r09	r27	r24			skilltab	4	3	4	skill	57	3	4	cast3		60	60	balance3		20	35	res-all		10	20	dex		15	20					0
 Runeword146	Time																																																0
 Runeword147	Tradition																																																0
 Runeword148	Treachery	1		111	tors									ShaelThulLem	r13	r10	r20				hit-skill	Venom	25	15	gethit-skill	Fade	5	15	ass		2	2	swing2		45	45													0

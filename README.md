@@ -122,8 +122,8 @@ New Items:
     Runewords:
 
         Thunder:
-            - Requires a 5 socketed Staff
-            - Runes: Hel + Tir + Ko + Mal + Gul
+            - Requires a 4 socketed Staff
+            - Runes: Lem + Ort + Ohm + Ist
             - Stats (Do not include the stats from the runes):
                 - +3-4 Lightning Skills (Sorceress Only)
                 - +3-4 Thunder Storm (Sorceress Only)
