@@ -704,5 +704,6 @@
     "etherealthrowexp1": "freeze_explode_center",
     "etherealthrowexp2": "freeze_explode_ejecta",
     "etherealthrowexp3": "null",
-    "ricochet": "javelin"
+    "ricochet": "ricochet_missile",
+    "ricochet_hit": "null"
 }

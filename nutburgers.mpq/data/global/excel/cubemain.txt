@@ -106,7 +106,7 @@ Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	1			0	28				2
 3 Dol Runes + 1 Chipped Emerald -> Hel Rune	1			100					3	"r14,qty=3"							r15																																																																																							0
 3 Hel Runes + 1 Chipped Diamond -> Io Rune	1			100					3	"r15,qty=3"							r16																																																																																							0
 3 Io Runes + 1 Flawed Topaz -> Lum Rune	1			100					3	"r16,qty=3"							r17																																																																																							0
-3 Lum Runes + 1 Flawed Amethyst -> Ko Rune	1			100					4	"r17,qty=3"							r18																																																																																							0
+3 Lum Runes + 1 Flawed Amethyst -> Ko Rune	1			100					3	"r17,qty=3"							r18																																																																																							0
 3 Ko Runes + 1 Flawed Sapphire -> Fal Rune	1			100					3	"r18,qty=3"							r19																																																																																							0
 3 Fal Runes + 1 Flawed Ruby -> Lem Rune	1			100					3	"r19,qty=3"							r20																																																																																							0
 3 Lem Runes + 1 Flawed Emerald -> Pul Rune	1			100					3	"r20,qty=3"							r21																																																																																							0
