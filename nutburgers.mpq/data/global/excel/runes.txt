@@ -142,7 +142,7 @@ Runeword141	Temptation																																																0
 Runeword142	Terror																																																0
 Runeword143	Thirst																																																0
 Runeword144	Thought																																																0
-Runeword145	Thunder	1			staf									LemOrtOhmIst	r20	r09	r27	r24			skilltab	4	3	4	skill	57	3	4	cast3		60	60	balance3		20	35	res-all		10	20	dex		15	20					0
+Runeword145	Thunder	1		My Mod	staf									LemOrtOhmIst	r20	r09	r27	r24			skilltab	4	3	4	skill	57	3	4	cast3		60	60	balance3		20	35	res-all		10	20	dex		15	20					0
 Runeword146	Time																																																0
 Runeword147	Tradition																																																0
 Runeword148	Treachery	1		111	tors									ShaelThulLem	r13	r10	r20				hit-skill	Venom	25	15	gethit-skill	Fade	5	15	ass		2	2	swing2		45	45													0
@@ -157,7 +157,7 @@ Runeword156	Voice																																																0
 Runeword157	Void																																																0
 Runeword158	War																																																0
 Runeword159	Water																																																0
-Runeword160	Wealth	1		109	tors									LmKoTir	r20	r18	r03				gold%		250	250	mag%		100	100																					0
+Runeword160	Wealth	1		109	tors									LemKoTir	r20	r18	r03				gold%		250	250	mag%		100	100																					0
 Runeword161	Whisper																																																0
 Runeword162	White	1		109	wand									DolIo	r14	r16					skilltab	7	3	3	red-mag		4	4	cast2		20	20	mana		13	13	skill	68	3	3	skill	84	2	2	skill	69	4	4	0
 Runeword163	Wind	1		110	mele									SurEl	r29	r01					dmg%		120	160	swing2		40	40	move2		20	20	reduce-ac		50	50	hit-skill	Tornado	10	9	charged	240	127	13	balance2		15	15	0
@@ -168,5 +168,6 @@ Runeword167	Wonder																																																0
 Runeword168	Wrath	1		Previously Ladder Only	miss									PulLumBerMal	r21	r17	r30	r23			dmg-demon		300	300	dmg-undead		250	300	dmg-ltng		41	240	dmg-mag		85	120	hit-skill	Life Tap	5	10	hit-skill	Decrepify	30	1	nofreeze		1	1	0
 Runeword169	Youth																																																0
 Runeword170	Zephyr	1		109	miss									OrtEth	r09	r05					move2		25	25	swing2		25	25	dmg%		33	33	att		66	66	gethit-skill	240	7	1	ac		25	25					0
-Runeword171	Frostbite	1		Initial Release	weap									ThulIstPulShael	r10	r24	r21	r13			swing2		15	25	pierce-cold		10	15	hit-skill	Frost Nova	15	10	res-cold		20	40	coldskill		2	2									0
-Runeword172	Fractured Mind	1		Initial Release	helm									FalIo	r19	r16					additionalproj		2	2	ac%		100	150	light		3	5	mana-hit		2	2													0
+Runeword171	Frostbite	1		My Mod	weap									ThulIstPulShael	r10	r24	r21	r13			swing2		15	25	pierce-cold		10	15	hit-skill	Frost Nova	15	10	res-cold		20	40	coldskill		2	2									0
+Runeword172	Fractured Mind	1		My Mod	helm									FalIo	r19	r16					additionalproj		2	2	ac%		100	150	light		3	5	mana-hit		2	2													0
+Runeword173	Annihilation	1		My Mod	tors									ChamZodJahSur	r32	r33	r31	r29			hit-skill	Hurricane	5	10	hit-skill	Chain Lightning	30	25	hit-skill	Frozen Orb	10	20	hit-skill	Fist of the Heavens	18	22	hit-skill	Tornado	25	18	hit-skill	Meteor	10	25	res-all		-50	-25	0

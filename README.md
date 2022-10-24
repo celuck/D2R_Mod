@@ -151,6 +151,18 @@ New Items:
                 - +3-5 to Light Radius
                 - +2 Mana gained on Hit
 
+        Annihilation:
+            - Requires a 4 socket body armor
+            - Runes: Cham + Zod + Jah + Sur
+            - Stats (Do not include the stats from the runes):
+                - 5% chance to cast level 10 Hurricane on Striking
+                - 30% chance to cast level 25 Chain Lightning on Striking
+                - 10% chance to cast level 20 Frozen Orb on Striking
+                - 18% chance to cast level 22 Fist of the Heavens on Striking
+                - 25% chance to cast level 18 Tornado on Striking
+                - 10% chance to cast level 25 Hurricane on Striking
+                - -(25-50) to All Resistance
+
 
 New Item Modifiers:
     - Added melee splash affix to jewels
