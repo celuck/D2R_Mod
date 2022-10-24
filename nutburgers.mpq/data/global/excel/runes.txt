@@ -170,4 +170,4 @@ Runeword169	Youth																																																0
 Runeword170	Zephyr	1		109	miss									OrtEth	r09	r05					move2		25	25	swing2		25	25	dmg%		33	33	att		66	66	gethit-skill	240	7	1	ac		25	25					0
 Runeword171	Frostbite	1		My Mod	weap									ThulIstPulShael	r10	r24	r21	r13			swing2		15	25	pierce-cold		10	15	hit-skill	Frost Nova	15	10	res-cold		20	40	coldskill		2	2									0
 Runeword172	Fractured Mind	1		My Mod	helm									FalIo	r19	r16					additionalproj		2	2	ac%		100	150	light		3	5	mana-hit		2	2													0
-Runeword173	Annihilation	1		My Mod	tors									ChamZodJahSur	r32	r33	r31	r29			hit-skill	Hurricane	5	10	hit-skill	Chain Lightning	30	25	hit-skill	Frozen Orb	10	20	hit-skill	Fist of the Heavens	18	22	hit-skill	Tornado	25	18	hit-skill	Meteor	10	25	res-all		-50	-25	0
+Runeword173	Annihilation	1		My Mod	tors									ChamZodJahSur	r32	r33	r31	r29			hit-skill	Bone Spirit	10	35	hit-skill	Chain Lightning	20	25	hit-skill	Frozen Orb	15	20	hit-skill	Fist of the Heavens	15	26	hit-skill	Twister	25	13	hit-skill	Meteor	10	27	res-all		-50	-25	0

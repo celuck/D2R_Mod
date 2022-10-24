@@ -145,7 +145,7 @@ New Items:
         Fractured Mind:
             - Requires a 2 socket helm
             - Runes: Fal + Io
-            - Stats (Do not include the stats from the runes):
+            - Stats (Do not include              the stats from the runes):
                 - +2 Additional Projectiles for skills
                 - 100-150% Enhanced Defense
                 - +3-5 to Light Radius
@@ -155,12 +155,12 @@ New Items:
             - Requires a 4 socket body armor
             - Runes: Cham + Zod + Jah + Sur
             - Stats (Do not include the stats from the runes):
-                - 5% chance to cast level 10 Hurricane on Striking
-                - 30% chance to cast level 25 Chain Lightning on Striking
-                - 10% chance to cast level 20 Frozen Orb on Striking
-                - 18% chance to cast level 22 Fist of the Heavens on Striking
-                - 25% chance to cast level 18 Tornado on Striking
-                - 10% chance to cast level 25 Hurricane on Striking
+                - 10% chance to cast level 35 Bone Spirit on Striking
+                - 20% chance to cast level 25 Chain Lightning on Striking
+                - 15% chance to cast level 20 Frozen Orb on Striking
+                - 15% chance to cast level 26 Fist of the Heavens on Striking
+                - 25% chance to cast level 13 Twister on Striking
+                - 10% chance to cast level 27 Meteor on Striking
                 - -(25-50) to All Resistance
 
 
