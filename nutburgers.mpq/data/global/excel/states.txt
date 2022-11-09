@@ -188,3 +188,4 @@ cooldown	185																																																																				
 sharedstash	186																																																																						0
 hidedead	187																											1	1			1																																							0
 impale	188																																																																						0
+conflagratingstrike	189																																										conflagplague														100	112	255	255	255										0

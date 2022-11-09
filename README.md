@@ -8,12 +8,17 @@
 3. Download and place the `nutburgers.mpq` folder into the `nutburgers` directory.
 4. On your Battle.net client open up the settings menu and go to the options wheel and select `Game Settings`.
 5. Under Diablo 2 Resurrected check the `Additional Command Line Arguments` box.
-6. Copy and Paste `-mod nutburgers -txt` into the text box.
+6. Copy and Paste `-mod nutburgers -txt` into the text box. (optionally add `-enablerespec` to allow respecing whenever by `alt + left click` on any allocated stat points will reset everything)
 7. Start the game :)
 
 ### Change Log
 
 Documented Changes made to D2R
+
+Sockets:
+
+    Added sockets to throwing weapons, gloves, boots, and belts
+        - Belts, Gloves and Boots can get up to 2 sockets
 
 Sorceress:
 
@@ -31,8 +36,21 @@ Sorceress:
         - New Skill similar to Amazons Charged Strike. Melee Cold Attack that creates Ice Bolts
         - Replaces Frozen Armor
 
-    Masteries:``
+    Masteries:
         - Gave them all a smaller diminishing bonus opposite of their normal effect (either pierce or damage)
+
+Barbarian:
+
+    Ricochet:
+        - A new throwing skill that will bounce between enemies
+
+    Seismic Slam:
+        - An improved Leap Attack that now hits a larger radius, leaps much faster but has a 3 second cooldown baseline
+        - The AoE portion deals the weapon damage plus the skill damage
+
+Assassin:
+
+    Updated the martial arts skills so that charges only expire with duration instead of expending them on attack with the exception of Dragon Talon because it would proc the charges on every kick.
 
     
 New Items:
@@ -138,14 +156,14 @@ New Items:
             - Stats (Do not include the stats from the runes):
                 - 15-25% Increased Attack Speed
                 - -15-20% Enemy Cold Resistance
-                - 15% to Cast Level 10 Frost Nova
+                - 15% to Cast Level 10 Frost Nova on Striking
                 - +20-40 to Cold Resistance
                 - +2 to Cold Skills
 
         Fractured Mind:
             - Requires a 2 socket helm
             - Runes: Fal + Io
-            - Stats (Do not include              the stats from the runes):
+            - Stats (Do not include the stats from the runes):
                 - +2 Additional Projectiles for skills
                 - 100-150% Enhanced Defense
                 - +3-5 to Light Radius
@@ -162,6 +180,14 @@ New Items:
                 - 25% chance to cast level 13 Twister on Striking
                 - 10% chance to cast level 27 Meteor on Striking
                 - -(25-50) to All Resistance
+
+        Added sockets to throwing items, therefore added the possibility of runewords for them. Here is a list of runewords that specifically changed to allow use with any throwing weapon.
+
+            - Mist
+            - Plague
+            - Strength
+            - Zephyr
+            - All other runewords follow the same rules i.e. any axe runeword can be used in a throwing axe, any melee weapon runeword can be used in a combo (melee/throwing) weapon.
 
 
 New Item Modifiers:

@@ -15965,7 +15965,7 @@
   {
     "id": 4945,
     "Key": "skillname143",
-    "enUS": "Leap Attack",
+    "enUS": "Seismic Slam",
     "zhTW": "躍擊",
     "deDE": "Sprungangriff",
     "esES": "Salto ofensivo",
@@ -15999,7 +15999,7 @@
   {
     "id": 4947,
     "Key": "skillld143",
-    "enUS": "leaps to and attacks target enemy\nand damages surrounding enemies",
+    "enUS": "leaps to and attacks target enemy\nand sends a shockwave\ndamaging surrounding enemies\n\nRequires a two-handed melee weapon (excluding swords)",
     "zhTW": "跳躍攻擊指定的敵人，並對\n周圍的敵人造成傷害",
     "deDE": "Springt schnell zum anvisierten\nGegner, greift ihn an und fügt\nGegnern in der Nähe Schaden zu.",
     "esES": "Salta y ataca al enemigo seleccionado\ne inflige daño a los enemigos cercanos.",
@@ -16016,7 +16016,7 @@
   {
     "id": 4948,
     "Key": "skillan143",
-    "enUS": "Leap Attack",
+    "enUS": "Seismic Slam",
     "zhTW": "躍擊",
     "deDE": "Sprungangriff",
     "esES": "Salto ofensivo",
@@ -35888,8 +35888,8 @@
   },
   {
     "id": 55011,
-    "Key": "Forksp2lev",
-    "enUS": "%s: +%d Forks per 2 Levels",
+    "Key": "Forksplev",
+    "enUS": "%s: +%d Forks per 3 Levels",
     "zhTW": "%0：每 %2 級電能彈數量 %+1",
     "deDE": "%s: %+d Bolzen alle %d Stufen",
     "esES": "%s: %+d descarga por cada %d niveles",
@@ -36072,5 +36072,39 @@
     "ptBR": "%d acertos",
     "ruRU": "Максимум целей: %d",
     "zhCN": "%d次攻击"
+  },
+  {
+    "id": 55022,
+    "Key": "CooldownSingular",
+    "enUS": "Cooldown: %d second",
+    "zhTW": "%0：每 %2 級電能彈數量 %+1",
+    "deDE": "%s: %+d Bolzen alle %d Stufen",
+    "esES": "%s: %+d descarga por cada %d niveles",
+    "frFR": "%s : %+d trait tous les %d niveaux",
+    "itIT": "%s: %+d dardo per %d livelli",
+    "koKR": "%0: %2레벨당 투사체 %+1개",
+    "plPL": "%s: %+d pocisk na %d poziomy",
+    "esMX": "%s: %+d centella cada %d niveles",
+    "jaJP": "%s: ボルト数%+d（%dレベルごと）",
+    "ptBR": "%s: %+d seta a cada %d níveis",
+    "ruRU": "%s: %+d заряд за %d ур.",
+    "zhCN": "%0: 每%2等级%+1枚"
+  },
+  {
+    "id": 55023,
+    "Key": "CooldownPlural",
+    "enUS": "Cooldown: %d seconds",
+    "zhTW": "%0：每 %2 級電能彈數量 %+1",
+    "deDE": "%s: %+d Bolzen alle %d Stufen",
+    "esES": "%s: %+d descarga por cada %d niveles",
+    "frFR": "%s : %+d trait tous les %d niveaux",
+    "itIT": "%s: %+d dardo per %d livelli",
+    "koKR": "%0: %2레벨당 투사체 %+1개",
+    "plPL": "%s: %+d pocisk na %d poziomy",
+    "esMX": "%s: %+d centella cada %d niveles",
+    "jaJP": "%s: ボルト数%+d（%dレベルごと）",
+    "ptBR": "%s: %+d seta a cada %d níveis",
+    "ruRU": "%s: %+d заряд за %d ур.",
+    "zhCN": "%0: 每%2等级%+1枚"
   }
 ]

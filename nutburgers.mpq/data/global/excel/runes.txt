@@ -81,7 +81,7 @@ Runeword79	Madness																																																0
 Runeword81	Malice	1		109	mele									IthElEth	r06	r01	r05				openwounds		100	100	dmg-ac		-100	-100	noheal		1	1	dmg%		33	33	light		-1	-1	regen		-5	-5					0
 Runeword82	Melody	1		109	miss									ShaelKoNef	r13	r18	r04				dmg%		50	50	skilltab	0	3	3	skill	9	3	3	skill	13	3	3	skill	17	3	3	dmg-undead		300	300					0
 Runeword83	Memory	1		109	staf									LumIoSolEth	r17	r16	r12	r05			mana%		20	20	red-mag		7	7	ac%		50	50	cast2		33	33	sor		3	3	skill	58	3	3	skill	42	2	2	0
-Runeword84	Mist	1		D2R Ladder 1	miss									ChamShaelGulThulIth	r32	r13	r25	r10	r06		allskills		3	3	dmg%		325	375	aura	Concentration	8	12	pierce		100	100	vit		24	24	res-all		40	40					0
+Runeword84	Mist	1		D2R Ladder 1	miss	thro								ChamShaelGulThulIth	r32	r13	r25	r10	r06		allskills		3	3	dmg%		325	375	aura	Concentration	8	12	pierce		100	100	vit		24	24	res-all		40	40					0
 Runeword85	Morning																																																0
 Runeword86	Mystery																																																0
 Runeword87	Myth	1		111	tors									HelAmnNef	r15	r11	r04				hit-skill	Taunt	10	1	gethit-skill	Howl	3	1	bar		2	2	regen		10	10													0
@@ -103,7 +103,7 @@ Runeword102	Pestilence																																																0
 Runeword103	Phoenix	1		Previously Ladder Only	weap	shld								VexVexLoJah	r26	r26	r28	r31			dmg%		350	400	ac-miss		350	400	hit-skill	Firestorm	40	22	levelup-skill	Blaze	100	40	pierce-fire		28	28	aura	Redemption	10	15	abs-fire		15	21	0
 Runeword104	Piety																																																0
 Runeword105	Pillar of Faith																																																0
-Runeword106	Plague	1		D2R Ladder 1	swor	knif	h2h							ChamShaelUm	r32	r13	r22				dmg%		220	320	gethit-skill	Lower Resist	20	12	hit-skill	Poison Nova	25	15	pierce-pois		23	23	deadly/lvl	3			aura	Cleansing	13	17	allskills		1	2	0
+Runeword106	Plague	1		D2R Ladder 1	swor	knif	h2h	thro						ChamShaelUm	r32	r13	r22				dmg%		220	320	gethit-skill	Lower Resist	20	12	hit-skill	Poison Nova	25	15	pierce-pois		23	23	deadly/lvl	3			aura	Cleansing	13	17	allskills		1	2	0
 Runeword107	Praise																																																0
 Runeword108	Prayer																																																0
 Runeword109	Pride	1		Previously Ladder Only	pole	spea								ChamSurIoLo	r32	r29	r16	r28			dmg-dem/lvl	8			dmg-ltng		50	280	att%		260	300	aura	Concentration	16	20	gethit-skill	Fire Wall	25	17	regen		8	8	gold%/lvl	15			0
@@ -136,7 +136,7 @@ Runeword135	Still Water																																																0
 Runeword136	Sting																																																0
 Runeword137	Stone	1		110	tors									ShaelUmPulLum	r13	r22	r21	r17			ac%		220	260	charged	Clay Golem	16	16	ac-miss		300	300	charged	Molten Boulder	80	16	str		16	16	vit		16	16	balance2		40	40	0
 Runeword138	Storm																																																0
-Runeword139	Strength	1		109	mele									AmnTir	r11	r03					str		20	20	dmg%		35	35	vit		10	10	crush		25	25													0
+Runeword139	Strength	1		109	mele	thro								AmnTir	r11	r03					str		20	20	dmg%		35	35	vit		10	10	crush		25	25													0
 Runeword140	Tempest																																																0
 Runeword141	Temptation																																																0
 Runeword142	Terror																																																0
@@ -167,7 +167,7 @@ Runeword166	Woe																																																0
 Runeword167	Wonder																																																0
 Runeword168	Wrath	1		Previously Ladder Only	miss									PulLumBerMal	r21	r17	r30	r23			dmg-demon		300	300	dmg-undead		250	300	dmg-ltng		41	240	dmg-mag		85	120	hit-skill	Life Tap	5	10	hit-skill	Decrepify	30	1	nofreeze		1	1	0
 Runeword169	Youth																																																0
-Runeword170	Zephyr	1		109	miss									OrtEth	r09	r05					move2		25	25	swing2		25	25	dmg%		33	33	att		66	66	gethit-skill	240	7	1	ac		25	25					0
+Runeword170	Zephyr	1		109	miss	thro								OrtEth	r09	r05					move2		25	25	swing2		25	25	dmg%		33	33	att		66	66	gethit-skill	240	7	1	ac		25	25					0
 Runeword171	Frostbite	1		My Mod	weap									ThulIstPulShael	r10	r24	r21	r13			swing2		15	25	pierce-cold		10	15	hit-skill	Frost Nova	15	10	res-cold		20	40	coldskill		2	2									0
 Runeword172	Fractured Mind	1		My Mod	helm									FalIo	r19	r16					additionalproj		2	2	ac%		100	150	light		3	5	mana-hit		2	2													0
 Runeword173	Annihilation	1		My Mod	tors									ChamZodJahSur	r32	r33	r31	r29			hit-skill	Bone Spirit	10	35	hit-skill	Chain Lightning	20	25	hit-skill	Frozen Orb	15	20	hit-skill	Fist of the Heavens	15	26	hit-skill	Twister	25	13	hit-skill	Meteor	10	27	res-all		-50	-25	0
