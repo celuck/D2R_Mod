@@ -190,6 +190,18 @@ New Items:
             - All other runewords follow the same rules i.e. any axe runeword can be used in a throwing axe, any melee weapon runeword can be used in a combo (melee/throwing) weapon.
 
 
+    Uniques:
+
+        - Frostburn Gauntlets
+            - Added +1 to Cold Skills
+
+        - Hotspur Boots
+            - Added +5 to Inferno Projectiles
+
+        - Leap Boots
+            - Reduce Cooldown of Leap attack by 33%
+            
+
 New Item Modifiers:
     - Added melee splash affix to jewels
     - Added +# to Cold/Lightning Skills
