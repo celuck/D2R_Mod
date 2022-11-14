@@ -6050,5 +6050,22 @@
     "ptBR": "Clique com o botão direito para redefinir pontos de habilidades/atributos",
     "ruRU": "Щелкните ПКМ, чтобы сбросить очки характеристик/умений",
     "zhCN": "右键点击重设属性/技能点"
+  },
+  {
+    "id": 59011,
+    "Key": "LeapCDR",
+    "enUS": "Seismic Slam has %d%% reduced cooldown",
+    "zhTW": "召喚狂狼",
+    "deDE": "Ents.-W. ruf.",
+    "esES": "lobo atroz",
+    "frFR": "Loup",
+    "itIT": "Ev. Lupo Orr.",
+    "koKR": "다이어 울프",
+    "plPL": "Upiorny Wilk",
+    "esMX": "%s: %+d%% de probabilidad por nivel",
+    "jaJP": "%s: レベルごとに発生率増加（%+d%%）",
+    "ptBR": "%s: %+d%% de chance por nível",
+    "ruRU": "%s: %+d%% к вероятности за уровень",
+    "zhCN": "%s: 每等级几率 %+d%%"
   }
 ]
