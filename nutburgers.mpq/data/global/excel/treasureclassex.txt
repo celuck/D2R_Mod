@@ -29,21 +29,21 @@ Currency 2			1					0	nu1	15	nu4	3	Currency 1	100																			0
 Maps 1			1					0	nu5	1																							0
 Runes 1			1					0	r01	3	r02	2																					0
 Runes 2			1					0	r03	3	r04	2	Runes 1	2																			0
-Runes 3			1					0	r05	3	r06	2	Runes 2	5																			0
-Runes 4			1					0	r07	3	r08	2	Runes 3	7																			0
-Runes 5			1					0	r09	3	r10	2	Runes 4	12																			0
-Runes 6			1					0	r11	3	r12	2	Runes 5	22																			0
-Runes 7			1					0	r13	3	r14	2	Runes 6	45																			0
-Runes 8			1					0	r15	3	r16	2	Runes 7	90																			0
-Runes 9			1					0	r17	3	r18	2	Runes 8	180																			0
-Runes 10			1					0	r19	3	r20	2	Runes 9	340																			0
-Runes 11			1					0	r21	3	r22	2	Runes 10	500																			0
-Runes 12			1					0	r23	3	r24	2	Runes 11	750																			0
-Runes 13			1					0	r25	3	r26	2	Runes 12	1100																			0
-Runes 14			1					0	r27	3	r28	2	Runes 13	1500																			0
-Runes 15			1					0	r29	3	r30	2	Runes 14	2200																			0
-Runes 16			1					0	r31	3	r32	2	Runes 15	3000																			0
-Runes 17			1					0	r33	1	Runes 16	3500																					0
+Runes 3			1					0	r05	3	r06	2	Runes 2	4																			0
+Runes 4			1					0	r07	3	r08	2	Runes 3	6																			0
+Runes 5			1					0	r09	3	r10	2	Runes 4	9																			0
+Runes 6			1					0	r11	3	r12	2	Runes 5	18																			0
+Runes 7			1					0	r13	3	r14	2	Runes 6	40																			0
+Runes 8			1					0	r15	3	r16	2	Runes 7	60																			0
+Runes 9			1					0	r17	3	r18	2	Runes 8	125																			0
+Runes 10			1					0	r19	3	r20	2	Runes 9	250																			0
+Runes 11			1					0	r21	3	r22	2	Runes 10	400																			0
+Runes 12			1					0	r23	3	r24	2	Runes 11	600																			0
+Runes 13			1					0	r25	3	r26	2	Runes 12	800																			0
+Runes 14			1					0	r27	3	r28	2	Runes 13	1100																			0
+Runes 15			1					0	r29	3	r30	2	Runes 14	1500																			0
+Runes 16			1					0	r31	3	r32	2	Runes 15	1900																			0
+Runes 17			1					0	r33	1	Runes 16	2400																					0
 Act 1 Junk			1					0	Potion 1	8	Misc 0	4	Ammo	4																			0
 Act 2 Junk			1					0	Act 1 Junk	2	Potion 2	8	Misc 0	4	Ammo	4																	0
 Act 3 Junk			1					0	Act 2 Junk	2	Potion 3	8	Misc 1	4	Ammo	4																	0
@@ -216,16 +216,16 @@ Act 2 Good	5	12	1						Jewelry B	20	Chipped Gem	12	Flawed Gem	4	Runes 1	3	Runes 
 Act 3 Good	5	18	1						Jewelry C	20	Chipped Gem	8	Flawed Gem	8	Runes 3	3	Runes 4	3	Currency 1	6													0
 Act 4 Good	5	26	1						Jewelry C	50	Chipped Gem	14	Flawed Gem	28	Normal Gem	42	Runes 5	14	Runes 6	7	Currency 1	8											0
 Act 5 Good	5	32	1						Jewelry C	50	Chipped Gem	6	Flawed Gem	8	Normal Gem	24	Flawless Gem	4	Runes 7	10	Currency 1	8											0
-Act 1 (N) Good	5	38	1						Jewelry C	60	Chipped Gem	6	Flawed Gem	8	Normal Gem	28	Flawless Gem	14	Runes 8	14	Currency 1	10											0
-Act 2 (N) Good	5	42	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 9	14	Currency 1	10											0
-Act 3 (N) Good	5	46	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 10	14	Currency 2	15											0
-Act 4 (N) Good	5	51	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 11	14	Currency 2	15											0
-Act 5 (N) Good	5	57	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 12	14	Currency 2	15											0
-Act 1 (H) Good	5	66	1						Jewelry C	50	Flawless Gem	24	Runes 13	16	Currency 2	12																	0
-Act 2 (H) Good	5	72	1						Jewelry C	50	Flawless Gem	24	Runes 14	16	Currency 2	12																	0
-Act 3 (H) Good	5	78	1						Jewelry C	50	Flawless Gem	24	Runes 15	16	Currency 2	12																	0
-Act 4 (H) Good	5	82	1						Jewelry C	50	Flawless Gem	24	Runes 16	16	Currency 2	12	Maps 1	3															0
-Act 5 (H) Good	5	85	1						Jewelry C	50	Flawless Gem	24	Runes 17	16	Currency 2	12	Maps 1	3															0
+Act 1 (N) Good	5	38	1						Jewelry C	60	Chipped Gem	6	Flawed Gem	8	Normal Gem	28	Flawless Gem	14	Runes 8	16	Currency 1	8											0
+Act 2 (N) Good	5	42	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 9	16	Currency 1	8											0
+Act 3 (N) Good	5	46	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 10	16	Currency 2	8											0
+Act 4 (N) Good	5	51	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 11	16	Currency 2	8											0
+Act 5 (N) Good	5	57	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 12	16	Currency 2	8											0
+Act 1 (H) Good	5	66	1						Jewelry C	50	Flawless Gem	24	Runes 13	16	Currency 2	8																	0
+Act 2 (H) Good	5	72	1						Jewelry C	50	Flawless Gem	24	Runes 14	16	Currency 2	8																	0
+Act 3 (H) Good	5	78	1						Jewelry C	50	Flawless Gem	24	Runes 15	16	Currency 2	8																	0
+Act 4 (H) Good	5	82	1						Jewelry C	50	Flawless Gem	24	Runes 16	16	Currency 2	8	Maps 1	2															0
+Act 5 (H) Good	5	85	1						Jewelry C	50	Flawless Gem	24	Runes 17	16	Currency 2	8	Maps 1	2															0
 Act 1 Chest A	6	0	4					50	gld	15	Act 1 Junk	15	Act 1 Equip A	10	Act 1 Good	2																	0
 Act 1 Chest B	6	5	4					50	gld	15	Act 1 Junk	15	Act 1 Equip B	10	Act 1 Good	2																	0
 Act 1 Chest C	6	9	4					50	gld	15	Act 1 Junk	12	Act 2 Junk	3	Act 1 Equip C	15	Act 1 Good	2															0
