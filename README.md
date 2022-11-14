@@ -189,7 +189,6 @@ New Items:
             - Zephyr
             - All other runewords follow the same rules i.e. any axe runeword can be used in a throwing axe, any melee weapon runeword can be used in a combo (melee/throwing) weapon.
 
-
     Uniques:
 
         - Frostburn Gauntlets
@@ -198,10 +197,9 @@ New Items:
         - Hotspur Boots
             - Added +5 to Inferno Projectiles
 
-        - Leap Boots
-            - Reduce Cooldown of Leap attack by 33%
+        - Gorefoot
+            - Reduce Cooldown of Seismic Slam by 50%
             
-
 New Item Modifiers:
     - Added melee splash affix to jewels
     - Added +# to Cold/Lightning Skills
