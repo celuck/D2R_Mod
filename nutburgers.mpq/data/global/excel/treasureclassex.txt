@@ -25,7 +25,7 @@ Potion 4			1					0	hp3	6	hp4	6	hp5	4	mp4	3	mp5	3	rvs	1	vps	2	yps	2	wms	1							0
 Potion 5			1					0	hp3	4	hp4	6	hp5	6	mp5	5	rvs	1	vps	2	yps	2	wms	1									0
 Potion 6			1					0	hp4	6	hp5	8	mp4	1	mp5	5	rvs	1	vps	2	yps	2	wms	1									0
 Currency 1			1					0	nu2	6	nu3	4																					0
-Currency 2			1					0	nu1	15	nu4	3	Currency 1	100																			0
+Currency 2			1					0	nu1	15	nu4	3	nu6	3	Currency 1	100																	0
 Maps 1			1					0	nu5	1																							0
 Runes 1			1					0	r01	3	r02	2																					0
 Runes 2			1					0	r03	3	r04	2	Runes 1	2																			0

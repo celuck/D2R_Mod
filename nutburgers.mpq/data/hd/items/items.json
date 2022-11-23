@@ -662,5 +662,6 @@
   { "nu2": { "asset": "currency/alteration"}},
   { "nu3": { "asset": "currency/chaos"}},
   { "nu4": { "asset": "currency/jeweller"}},
-  { "nu5": { "asset": "maps/cavemap1"}}
+  { "nu5": { "asset": "maps/cavemap1"}},
+  { "nu6": { "asset": "currency/runic_key"}}
 ]

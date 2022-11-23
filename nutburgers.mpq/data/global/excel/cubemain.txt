@@ -154,7 +154,7 @@ Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	1			0	28				2
 1 Tal Rune + 1 Shael Rune + 1 Perfect Diamond + 1 Normal Set Armor -> Exceptional Set Armor	1	1		100					4	"armo,bas,set"	r07	r13	gpw				"useitem,mod,exc"				levelreq			5	5																																																																															0
 1 Lum Rune + 1 Pul Rune + 1 Perfect Emerald + 1 Exceptional Set Weapon -> Elite Set Weapon	1	1		100					4	"weap,exc,set"	r17	r21	gpg				"useitem,mod,eli"				levelreq			7	7																																																																															0
 1 Ko Rune + 1 Lem Rune + 1 Perfect Diamond + 1 Exceptional Set Armor -> Elite Set Armor	1	1		100					4	"armo,exc,set"	r18	r20	gpw				"useitem,mod,eli"				levelreq			7	7																																																																															0
-testing row				100					1	tsc							Gorefoot	99		99																																																																																				0
+testing row	1			100					1	tsc							nu6	99		99	runicdummystat			1	33																																																																															0
 Alteration Orb + Magic Item	1			100					2	"any,mag"	nu2						"usetype,mag"			100																																																																																				0
 Jeweller's Orb + Unique Weapon	1			100					2	"weap,uni,nos"	nu4						useitem				sock			1	6																																																																															0
 Jeweller's Orb + Unique Shield	1			100					2	"shld,uni,nos"	nu4						useitem				sock			1	4																																																																															0
@@ -162,35 +162,24 @@ Jeweller's Orb + Unique Helm	1			100					2	"helm,uni,nos"	nu4						useitem				so
 Jeweller's Orb + Unique Armor	1			100					2	"tors,uni,nos"	nu4						useitem				sock			1	4																																																																															0
 Jeweller's Orb + Unique Gloves	1			100					2	"glov,uni,nos"	nu4						useitem				sock			1	2																																																																															0
 Jeweller's Orb + Unique Boots	1			100					2	"boot,uni,nos"	nu4						useitem				sock			1	2																																																																															0
-Jeweller's Orb + Unique Belt	1			100					2	"belt,uni,nos"	nu4						useitem				sock			1	2																																																																															0
 Jeweller's Orb + Set Weapon	1			100					2	"weap,set,nos"	nu4						useitem				sock			1	6																																																																															0
 Jeweller's Orb + Set Shield	1			100					2	"shld,set,nos"	nu4						useitem				sock			1	4																																																																															0
 Jeweller's Orb + Set Helm	1			100					2	"helm,set,nos"	nu4						useitem				sock			1	3																																																																															0
 Jeweller's Orb + Set Armor	1			100					2	"tors,set,nos"	nu4						useitem				sock			1	4																																																																															0
 Jeweller's Orb + Set Gloves	1			100					2	"glov,set,nos"	nu4						useitem				sock			1	2																																																																															0
 Jeweller's Orb + Set Boots	1			100					2	"boot,set,nos"	nu4						useitem				sock			1	2																																																																															0
-Jeweller's Orb + Set Belt	1			100					2	"belt,set,nos"	nu4						useitem				sock			1	2																																																																															0
 Jeweller's Orb + Rare Weapon	1			100					2	"weap,rar,nos"	nu4						useitem				sock			1	6																																																																															0
 Jeweller's Orb + Rare Shield	1			100					2	"shld,rar,nos"	nu4						useitem				sock			1	4																																																																															0
 Jeweller's Orb + Rare Helm	1			100					2	"helm,rar,nos"	nu4						useitem				sock			1	3																																																																															0
 Jeweller's Orb + Rare Armor	1			100					2	"tors,rar,nos"	nu4						useitem				sock			1	4																																																																															0
 Jeweller's Orb + Rare Gloves	1			100					2	"glov,rar,nos"	nu4						useitem				sock			1	2																																																																															0
 Jeweller's Orb + Rare Boots	1			100					2	"boot,rar,nos"	nu4						useitem				sock			1	2																																																																															0
-Jeweller's Orb + Rare Belt	1			100					2	"belt,rar,nos"	nu4						useitem				sock			1	2																																																																															0
 Jeweller's Orb + Magic Weapon	1			100					2	"weap,mag,nos"	nu4						useitem				sock			1	6																																																																															0
 Jeweller's Orb + Magic Shield	1			100					2	"shld,mag,nos"	nu4						useitem				sock			1	4																																																																															0
 Jeweller's Orb + Magic Helm	1			100					2	"helm,mag,nos"	nu4						useitem				sock			1	3																																																																															0
 Jeweller's Orb + Magic Armor	1			100					2	"tors,mag,nos"	nu4						useitem				sock			1	4																																																																															0
 Jeweller's Orb + Magic Gloves	1			100					2	"glov,mag,nos"	nu4						useitem				sock			1	2																																																																															0
 Jeweller's Orb + Magic Boots	1			100					2	"boot,mag,nos"	nu4						useitem				sock			1	2																																																																															0
-Jeweller's Orb + Magic Belt	1			100					2	"belt,mag,nos"	nu4						useitem				sock			1	2																																																																															0
-Jeweller's Orb + Crafted Weapon	1			100					2	"weap,mag,nos"	nu4						useitem				sock			1	6																																																																															0
-Jeweller's Orb + Crafted Shield	1			100					2	"shld,crf,nos"	nu4						useitem				sock			1	4																																																																															0
-Jeweller's Orb + Crafted Helm	1			100					2	"helm,crf,nos"	nu4						useitem				sock			1	3																																																																															0
-Jeweller's Orb + Crafted Armor	1			100					2	"tors,crf,nos"	nu4						useitem				sock			1	4																																																																															0
-Jeweller's Orb + Crafted Gloves	1			100					2	"glov,crf,nos"	nu4						useitem				sock			1	2																																																																															0
-Jeweller's Orb + Crafted Boots	1			100					2	"boot,crf,nos"	nu4						useitem				sock			1	2																																																																															0
-Jeweller's Orb + Crafted Belt	1			100					2	"belt,crf,nos"	nu4						useitem				sock			1	2																																																																															0
 Chaos Orb + Rare Item	1			100					2	"any,rar"	nu3						"usetype,rar"			100																																																																																				0
 (NEW v1.1.0) (CHECK 1) Item + Demon Orb ->  If item ! CorruptionDummyStat, add CorruptionDummyStat. (CHECK 1)	1			100	18	362			2	"ring,rar"	nu1						useitem			100	corruptiondummystat			1	100	corrupted			1	1																nu1																																																										0
 Item + Demon Orb ->  If item ! CorruptionDummyStat, add CorruptionDummyStat.	1			100	18	362			2	"amu,rar"	nu1						useitem			100	corruptiondummystat			1	100	corrupted			1	1																nu1																																																										0
@@ -643,3 +632,37 @@ brick to rare	1			100	15	363	0		2	"glov,mag"	nu1						"usetype,rar"			100	corrup
 brick to rare	1			100	15	363	0		2	"belt,mag"	nu1						"usetype,rar"			100	corruptiondummystat			101	101	corruptstring			1	1																																																																										0
 brick to rare	1			100	15	363	0		2	"helm,mag"	nu1						"usetype,rar"			100	corruptiondummystat			101	101	corruptstring			1	1																																																																										0
 Portal to Troll Cave	1			100					1	nu5							Red Portal,qty=137																																																																																							0
+	1			100	18	373	0		1	nu6							nu6				runicdummystat			1	33																																																																															0
+Runic Key 1	1			100	18	373	1		1	nu6							r01																																																																																							0
+Runic Key 2	1			100	18	373	2		1	nu6							r02																																																																																							0
+Runic Key 3	1			100	18	373	3		1	nu6							r03																																																																																							0
+Runic Key 4	1			100	18	373	4		1	nu6							r04																																																																																							0
+Runic Key 5	1			100	18	373	5		1	nu6							r05																																																																																							0
+Runic Key 6	1			100	18	373	6		1	nu6							r06																																																																																							0
+Runic Key 7	1			100	18	373	7		1	nu6							r07																																																																																							0
+Runic Key 8	1			100	18	373	8		1	nu6							r08																																																																																							0
+Runic Key 9	1			100	18	373	9		1	nu6							r09																																																																																							0
+Runic Key 10	1			100	18	373	10		1	nu6							r10																																																																																							0
+Runic Key 11	1			100	18	373	11		1	nu6							r11																																																																																							0
+Runic Key 12	1			100	18	373	12		1	nu6							r12																																																																																							0
+Runic Key 13	1			100	18	373	13		1	nu6							r13																																																																																							0
+Runic Key 14	1			100	18	373	14		1	nu6							r14																																																																																							0
+Runic Key 15	1			100	18	373	15		1	nu6							r15																																																																																							0
+Runic Key 16	1			100	18	373	16		1	nu6							r16																																																																																							0
+Runic Key 17	1			100	18	373	17		1	nu6							r17																																																																																							0
+Runic Key 18	1			100	18	373	18		1	nu6							r18																																																																																							0
+Runic Key 19	1			100	18	373	19		1	nu6							r19																																																																																							0
+Runic Key 20	1			100	18	373	20		1	nu6							r20																																																																																							0
+Runic Key 21	1			100	18	373	21		1	nu6							r21																																																																																							0
+Runic Key 22	1			100	18	373	22		1	nu6							r22																																																																																							0
+Runic Key 23	1			100	18	373	23		1	nu6							r23																																																																																							0
+Runic Key 24	1			100	18	373	24		1	nu6							r24																																																																																							0
+Runic Key 25	1			100	18	373	25		1	nu6							r25																																																																																							0
+Runic Key 26	1			100	18	373	26		1	nu6							r26																																																																																							0
+Runic Key 27	1			100	18	373	27		1	nu6							r27																																																																																							0
+Runic Key 28	1			100	18	373	28		1	nu6							r28																																																																																							0
+Runic Key 29	1			100	18	373	29		1	nu6							r29																																																																																							0
+Runic Key 30	1			100	18	373	30		1	nu6							r30																																																																																							0
+Runic Key 31	1			100	18	373	31		1	nu6							r31																																																																																							0
+Runic Key 32	1			100	18	373	32		1	nu6							r32																																																																																							0
+Runic Key 33	1			100	18	373	33		1	nu6							r33																																																																																							0

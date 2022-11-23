@@ -26180,9 +26180,26 @@
     "zhCN": "漆黑裂痕"
   },
   {
-    "id": 65000,
+    "id": 64000,
     "Key": "nu5",
     "enUS": "ÿcOTroll Cave Map (Tier 1)",
+    "zhTW": "召喚狂狼",
+    "deDE": "Ents.-W. ruf.",
+    "esES": "lobo atroz",
+    "frFR": "Loup",
+    "itIT": "Ev. Lupo Orr.",
+    "koKR": "다이어 울프",
+    "plPL": "Upiorny Wilk",
+    "esMX": "Lanza %d centellas",
+    "jaJP": "チャージドボルトを%d本放つ",
+    "ptBR": "Dispara %d setas carregadas",
+    "ruRU": "Залпов молний: %d",
+    "zhCN": "释放出%d枚电荷弹"
+  },
+  {
+    "id": 64001,
+    "Key": "nu6",
+    "enUS": "ÿc;Runic Key",
     "zhTW": "召喚狂狼",
     "deDE": "Ents.-W. ruf.",
     "esES": "lobo atroz",

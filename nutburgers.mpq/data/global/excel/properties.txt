@@ -287,3 +287,4 @@ pierce-immunity-poison	1	1	item_pierce_poison_immunity																										
 pierce-immunity-damage	1	1	item_pierce_damage_immunity																											Monster Physical Immunity is Sundered		Min %	Max %		0
 pierce-immunity-magic	1	1	item_pierce_magic_immunity																											Monster Magic Immunity is Sundered		Min %	Max %		0
 leap-cdr	1	1	item_leap_cdr																											cooldown reduction for leap skills					0
+runicdummystat	1	1	item_runicdummystat																																0

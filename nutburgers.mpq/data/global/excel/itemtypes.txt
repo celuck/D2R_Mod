@@ -109,3 +109,4 @@ Merc Equip	helm	armo	merc	1	1	head	head			0	0	0	0		1	0	0	2	25	2	40	3	0	3			0				
 Currency	curr			0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3			0							misc	0
 Map	map			0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3			0							misc	0
 Two Hand Melee	thm			0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
+Runic	rkey			0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3			0							misc	0
