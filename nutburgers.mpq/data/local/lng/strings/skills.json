@@ -14877,7 +14877,7 @@
   {
     "id": 4881,
     "Key": "skillname127",
-    "enUS": "Blade Mastery",
+    "enUS": "Blade and Blunt Mastery",
     "zhTW": "利刃專精",
     "deDE": "Klingenbeherrschung",
     "esES": "Dominio de los filos",
@@ -14894,7 +14894,7 @@
   {
     "id": 4882,
     "Key": "skillsd127",
-    "enUS": "passive - improves swords and daggers fighting skill",
+    "enUS": "passive - improves bladed and blunted weapon fighting skills \n(excludes Polearm/Spear/Throwing weapons)",
     "zhTW": "被動 - 提高你使用刀劍與匕首的戰鬥技巧",
     "deDE": "Passiv - Verbessert den Umgang mit Schwertern und Dolchen.",
     "esES": "Pasiva: Mejora la destreza de lucha con espadas y dagas.",
@@ -14911,7 +14911,7 @@
   {
     "id": 4883,
     "Key": "skillld127",
-    "enUS": "passive - improves swords and daggers fighting skill",
+    "enUS": "passive - improves bladed and blunted weapon fighting skills \n(excludes Polearm/Spear/Throwing weapons)",
     "zhTW": "被動 - 提高你使用刀劍與匕首的戰鬥技巧",
     "deDE": "Passiv - Verbessert den Umgang mit Schwertern und Dolchen.",
     "esES": "Pasiva: Mejora la destreza de lucha con espadas y dagas.",
@@ -14928,7 +14928,7 @@
   {
     "id": 4884,
     "Key": "skillan127",
-    "enUS": "Blade Mastery",
+    "enUS": "Blade and Blunt Weapon Mastery",
     "zhTW": "利刃專精",
     "deDE": "Klingenbeherrschung",
     "esES": "Dominio de los filos",
@@ -15013,7 +15013,7 @@
   {
     "id": 4889,
     "Key": "skillname129",
-    "enUS": "Mace Mastery",
+    "enUS": "Endurance Mastery",
     "zhTW": "釘鎚專精",
     "deDE": "Streitkolbenbeherrschung",
     "esES": "Dominio de la maza",
@@ -15030,7 +15030,7 @@
   {
     "id": 4890,
     "Key": "skillsd129",
-    "enUS": "passive - improves mace fighting skill",
+    "enUS": "passive - improves endurance and survivability",
     "zhTW": "被動 - 提高你使用釘鎚的戰鬥技巧",
     "deDE": "Passiv - Verbessert den Umgang mit Streitkolben.",
     "esES": "Pasiva: Mejora la destreza de lucha con mazas.",
@@ -15047,7 +15047,7 @@
   {
     "id": 4891,
     "Key": "skillld129",
-    "enUS": "passive - improves mace fighting skill",
+    "enUS": "passive - improves endurance and survivability",
     "zhTW": "被動 - 提高你使用釘鎚的戰鬥技巧",
     "deDE": "Passiv - Erhöht Schaden, Angriff und kritische Trefferchance mit Streitkolben.",
     "esES": "Pasiva: Mejora la destreza de lucha con mazas.",
@@ -15064,7 +15064,7 @@
   {
     "id": 4892,
     "Key": "skillan129",
-    "enUS": "Mace Mastery",
+    "enUS": "Endurance Mastery",
     "zhTW": "釘鎚專精",
     "deDE": "Streitkolbenbeherrschung",
     "esES": "Dominio de la maza",
@@ -15353,7 +15353,7 @@
   {
     "id": 4909,
     "Key": "skillname134",
-    "enUS": "Polearm Mastery",
+    "enUS": "Spear and Polearm Mastery",
     "zhTW": "長武專精",
     "deDE": "Stangenwaffenbeherrschung",
     "esES": "Dominio del arma de asta",
@@ -15370,7 +15370,7 @@
   {
     "id": 4910,
     "Key": "skillsd134",
-    "enUS": "passive - improves polearm skill",
+    "enUS": "passive - improves spear and polearm skill",
     "zhTW": "被動 - 提高你使用長柄武器的戰鬥技巧",
     "deDE": "Passiv - Verbessert den Umgang mit Stangenwaffen.",
     "esES": "Pasiva: Mejora la destreza de lucha con armas de asta.",
@@ -15387,7 +15387,7 @@
   {
     "id": 4911,
     "Key": "skillld134",
-    "enUS": "passive - improves polearm skill",
+    "enUS": "passive - improves spear and polearm skill",
     "zhTW": "被動 - 提高你使用長柄武器的戰鬥技巧",
     "deDE": "Passiv - Erhöht Schaden, Angriff und kritische Trefferchance mit Stangenwaffen.",
     "esES": "Pasiva: Mejora la destreza de lucha con armas de asta.",
@@ -15404,7 +15404,7 @@
   {
     "id": 4912,
     "Key": "skillan134",
-    "enUS": "Polearm Mastery",
+    "enUS": "Spear and Polearm Mastery",
     "zhTW": "長武專精",
     "deDE": "Stangenwaffenbeherrschung",
     "esES": "Dominio del arma de asta",
@@ -15489,7 +15489,7 @@
   {
     "id": 4917,
     "Key": "skillname136",
-    "enUS": "Spear Mastery",
+    "enUS": "Advanced Weapons Mastery",
     "zhTW": "長矛專精",
     "deDE": "Speerbeherrschung",
     "esES": "Dominio de la lanza",
@@ -15506,7 +15506,7 @@
   {
     "id": 4918,
     "Key": "skillsd136",
-    "enUS": "passive - improves spear fighting skill",
+    "enUS": "passive - improves all weapons fighting skill",
     "zhTW": "被動 - 提高你使用長矛的戰鬥技巧",
     "deDE": "Passiv - Verbessert den Umgang mit Speeren.",
     "esES": "Pasiva: Mejora la destreza de lucha con lanzas.",
@@ -15523,7 +15523,7 @@
   {
     "id": 4919,
     "Key": "skillld136",
-    "enUS": "passive - improves spear fighting skill",
+    "enUS": "passive - improves all weapons fighting skill",
     "zhTW": "被動 - 提高你使用長矛的戰鬥技巧",
     "deDE": "Passiv - Erhöht Schaden, Angriff und kritische Trefferchance mit Speeren.",
     "esES": "Pasiva: Mejora la destreza de lucha con lanzas.",
@@ -15540,7 +15540,7 @@
   {
     "id": 4920,
     "Key": "skillan136",
-    "enUS": "Spear Mastery",
+    "enUS": "Advanced Weapons Mastery",
     "zhTW": "長矛專精",
     "deDE": "Speerbeherrschung",
     "esES": "Dominio de la lanza",

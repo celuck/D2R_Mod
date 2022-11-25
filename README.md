@@ -209,3 +209,6 @@ Shortened names of a few items to reduce clutter
 Reduced the chance for NoDrop in most scenarios
 
 Removed Quantity for Bow/Javelin/Throwing Skills
+
+
+https://discord.com/channels/321843290150535169/321925012552679424/763078461492953089

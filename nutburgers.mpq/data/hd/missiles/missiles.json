@@ -706,5 +706,6 @@
     "etherealthrowexp3": "null",
     "ricochet": "ricochet_missile",
     "ricochet_hit": "null",
-    "proc_splashdamage": "null"
+    "proc_splashdamage": "b_a_yell_shock_wave_01",
+    "aftershock": "b_a_yell_shock_wave_01"
 }

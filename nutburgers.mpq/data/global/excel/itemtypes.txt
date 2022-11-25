@@ -56,7 +56,7 @@ Socket Filler	sock	misc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Second Hand	seco			0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
 Staves And Rods	rod	blun		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
 Missile	misl	misc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Blunt	blun	mele		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
+Blunt	blun	mele	blbl	0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
 Expansion																																			0
 Jewel	jewl	sock		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			6	invjw1	invjw2	invjw3	invjw4	invjw5	invjw6	misc	0
 Class Specific	clas			0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
@@ -109,5 +109,5 @@ Merc Equip	helm	armo	merc	1	1	head	head			0	0	0	0		1	0	0	2	25	2	40	3	0	3			0				
 Currency	curr			0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3			0							misc	0
 Map	map			0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3			0							misc	0
 Two Hand Melee	thm			0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
-Blade and Blunt	blbl			0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
 Runic	rkey			0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3			0							misc	0
+Blunt and Blade	blbl			0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
