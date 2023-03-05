@@ -14945,7 +14945,7 @@
   {
     "id": 4885,
     "Key": "skillname128",
-    "enUS": "Axe Mastery",
+    "enUS": "Aftershock",
     "zhTW": "斧術專精",
     "deDE": "Axtbeherrschung",
     "esES": "Dominio del hacha",
@@ -14962,7 +14962,7 @@
   {
     "id": 4886,
     "Key": "skillsd128",
-    "enUS": "passive - improves axe fighting skill",
+    "enUS": "passive - grants the chance to cast aftershock on hit",
     "zhTW": "被動 - 提高你使用斧的戰鬥技巧",
     "deDE": "Passiv - Verbessert den Umgang mit Äxten.",
     "esES": "Pasiva: Mejora la destreza de lucha con hachas.",
@@ -14979,7 +14979,7 @@
   {
     "id": 4887,
     "Key": "skillld128",
-    "enUS": "passive - improves axe fighting skill",
+    "enUS": "passive - grants the chance to cast aftershock on hit",
     "zhTW": "被動 - 提高你使用斧的戰鬥技巧",
     "deDE": "Passiv - Erhöht Schaden, Angriff und kritische Trefferchance mit Äxten.",
     "esES": "Pasiva: Mejora la destreza de lucha con hachas.",
@@ -14996,7 +14996,7 @@
   {
     "id": 4888,
     "Key": "skillan128",
-    "enUS": "Axe Mastery",
+    "enUS": "Aftershock",
     "zhTW": "斧術專精",
     "deDE": "Axtbeherrschung",
     "esES": "Dominio del hacha",
@@ -15999,7 +15999,7 @@
   {
     "id": 4947,
     "Key": "skillld143",
-    "enUS": "leaps to and attacks target enemy\nand sends a shockwave\ndamaging surrounding enemies\n\nRequires a two-handed melee weapon (excluding swords)",
+    "enUS": "leaps to and attacks target enemy\nand sends a shockwave\ndamaging surrounding enemies\n\nRequires a two-handed melee weapon (excluding swords)\n\ncooldown scales from 3 seconds to 1.5 seconds\nbased on hard points allocated\n\n AoE deals weapon damage plus the flat skill damage",
     "zhTW": "跳躍攻擊指定的敵人，並對\n周圍的敵人造成傷害",
     "deDE": "Springt schnell zum anvisierten\nGegner, greift ihn an und fügt\nGegnern in der Nähe Schaden zu.",
     "esES": "Salta y ataca al enemigo seleccionado\ne inflige daño a los enemigos cercanos.",
@@ -16118,7 +16118,7 @@
   {
     "id": 4954,
     "Key": "skillsd145",
-    "enUS": "passive - improves defense",
+    "enUS": "passive - improves defense and thorns",
     "zhTW": "被動 - 提高防禦",
     "deDE": "Passiv - Erhöht die Verteidigung.",
     "esES": "Pasiva: Mejora la defensa.",
@@ -16135,7 +16135,7 @@
   {
     "id": 4955,
     "Key": "skillld145",
-    "enUS": "passive - improves defense",
+    "enUS": "passive - improves defense and thorns",
     "zhTW": "被動 - 提高防禦",
     "deDE": "Passiv - Erhöht die Verteidigung.",
     "esES": "Pasiva: Mejora la defensa.",
@@ -36106,5 +36106,22 @@
     "ptBR": "%s: %+d seta a cada %d níveis",
     "ruRU": "%s: %+d заряд за %d ур.",
     "zhCN": "%0: 每%2等级%+1枚"
+  },
+  {
+    "id": 55024,
+    "Key": "AftershockProc",
+    "enUS": "dealing weapon damage in a circle\n%d%% Chance to cast Aftershock on striking",
+    "zhTW": "擊中時有 %d%% 機率施展等級 %d %s",
+    "deDE": "%d%% Chance, bei einem Angriff Stufe %d %s auszulösen",
+    "esES": "%0%% de probabilidad de lanzar %2 de nivel %1 al golpear",
+    "frFR": "%0%% de chances de lancer %2 - niv. %1 en touchant",
+    "itIT": "Probabilità del %d%% di lanciare a livello %d %s quando colpisci",
+    "koKR": "타격 시 %d%% 확률로 %d 레벨 %s 시전",
+    "plPL": "%d%% szansy rzucenia %d-poziomowego zaklęcia %s, gdy atak dosięga celu",
+    "esMX": "%0%% de probabilidad de lanzar %2 nivel %1 al golpear",
+    "jaJP": "命中時に%0%%の確率で〈%2〉（レベル%1）を発動",
+    "ptBR": "%0%% de chance de lançar %2 de nível %1 ao atingir um inimigo",
+    "ruRU": "Вероятность %0%% применить умение «%2» %1-го уровня при ударе",
+    "zhCN": "%d%% 几率在击中时施放%d级%s"
   }
 ]
