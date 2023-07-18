@@ -61,7 +61,7 @@ gold%	1	1	item_goldbonus																											#% Extra Gold from Monsters		
 mag%	1	1	item_magicbonus																											#% Better Chance of Getting Magic Items		Min %	Max %		0
 knock	1	1	item_knockback																											Knockback		1	1		0
 regen-stam	1	1	staminarecoverybonus																											Heal Stamina Plus #%		Min %	Max %		0
-s	1	1	manarecoverybonus																											Regenerate Mana #%		Min %	Max %		0
+regen-mana	1	1	manarecoverybonus																											Regenerate Mana #%		Min %	Max %		0
 stam	1	1	maxstamina																											+# Maximum Stamina		Min #	Max #		0
 time	1	1	item_timeduration																													Min #	Max #	Currently Not Used	0
 manasteal	1	1	manadrainmindam																											#% Mana stolen per hit		Min #	Max #		0
@@ -288,3 +288,4 @@ pierce-immunity-damage	1	1	item_pierce_damage_immunity																										
 pierce-immunity-magic	1	1	item_pierce_magic_immunity																											Monster Magic Immunity is Sundered		Min %	Max %		0
 leap-cdr	1	1	item_leap_cdr																											cooldown reduction for leap skills					0
 runicdummystat	1	1	item_runicdummystat																																0
+charge-noconsume	1	1	item_charge_noconsume																											+#% chance for finishing moves to not consume charges		Min %	Max %		0
