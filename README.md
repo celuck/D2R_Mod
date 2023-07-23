@@ -6,9 +6,9 @@
 1. Create a folder inside your Diablo 2 Resurrected directory called `mods`
 2. Create a folder within the `mods` folder named `nutburgers`.
 3. Download and place the `nutburgers.mpq` folder into the `nutburgers` directory.
-4. On your Battle.net client open up the settings menu and go to the options wheel and select `Game Settings`.
-5. Under Diablo 2 Resurrected check the `Additional Command Line Arguments` box.
-6. Copy and Paste `-mod nutburgers -txt` into the text box. (optionally add `-enablerespec` to allow respecing whenever by `alt + left click` on any allocated stat points will reset everything)
+4. Place the D2RLaunch folder wherever you want and create a shortcut if you would like
+5. Launch the `D2RLaunch.exe`
+6. Select the `nutburgers` mod in the dropdown and select any additional configurations you would like
 7. Start the game :)
 
 ### Change Log
@@ -27,6 +27,9 @@ Sorceress:
     Inferno:
         - Added a base number of 5 projectiles to increase its AoE capabilities
         - Added a mod on Hotspurs Leather Boots to give inferno 5 additional projectiles
+    
+    Blaze:
+        - Added 1% fire damage per 1% faster run/walk
 
     Thunder Storm:
         - Modified it to fork to nearby enemies based on Chain Lightning level
@@ -137,6 +140,9 @@ New Items:
         Jewellers Orb:
             - Jewellers orbs can be transmuted with any socketable item to add random number of sockets to it
 
+        Runic Key:
+            - At the same rarity as the Jewellers Orb, this key can be transmuted in the cube to give you any rune at equal weighting
+
     Runewords:
 
         Thunder:
@@ -180,6 +186,15 @@ New Items:
                 - 25% chance to cast level 13 Twister on Striking
                 - 10% chance to cast level 27 Meteor on Striking
                 - -(25-50) to All Resistance
+
+        Purifying Flame:
+            - Requires a 3 socket orb
+            - Runes: Vex + Tir + Lem
+            - Stats (Do not include the stats from the runes)
+                - -(20-30) Enemy Fire Resistance
+                - +3 to Fire Skills
+                - +3-5 to Inferno (Sorceress Only)
+                - +18-22 to Armageddon (oskill)
 
         Added sockets to throwing items, therefore added the possibility of runewords for them. Here is a list of runewords that specifically changed to allow use with any throwing weapon.
 
