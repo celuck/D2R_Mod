@@ -24,8 +24,8 @@ Potion 3			1					0	hp2	6	hp3	6	hp4	4	mp3	3	mp4	3	rvs	1	vps	2	yps	2	wms	1							0
 Potion 4			1					0	hp3	6	hp4	6	hp5	4	mp4	3	mp5	3	rvs	1	vps	2	yps	2	wms	1							0
 Potion 5			1					0	hp3	4	hp4	6	hp5	6	mp5	5	rvs	1	vps	2	yps	2	wms	1									0
 Potion 6			1					0	hp4	6	hp5	8	mp4	1	mp5	5	rvs	1	vps	2	yps	2	wms	1									0
-Currency 1			1					0	nu2	6	nu3	4																					0
-Currency 2			1					0	nu1	15	nu4	3	nu6	3	Currency 1	100																	0
+Currency 1			1					6	nu2	6	nu3	4																					0
+Currency 2			1					0	nu1	15	nu4	3	nu6	3	Currency 1	80																	0
 Maps 1			1					0	nu5	1																							0
 Runes 1			1					0	r01	3	r02	2																					0
 Runes 2			1					0	r03	3	r04	2	Runes 1	2																			0
@@ -36,14 +36,14 @@ Runes 6			1					0	r11	3	r12	2	Runes 5	18																			0
 Runes 7			1					0	r13	3	r14	2	Runes 6	40																			0
 Runes 8			1					0	r15	3	r16	2	Runes 7	60																			0
 Runes 9			1					0	r17	3	r18	2	Runes 8	125																			0
-Runes 10			1					0	r19	3	r20	2	Runes 9	250																			0
-Runes 11			1					0	r21	3	r22	2	Runes 10	400																			0
-Runes 12			1					0	r23	3	r24	2	Runes 11	600																			0
-Runes 13			1					0	r25	3	r26	2	Runes 12	800																			0
-Runes 14			1					0	r27	3	r28	2	Runes 13	1100																			0
-Runes 15			1					0	r29	3	r30	2	Runes 14	1500																			0
-Runes 16			1					0	r31	3	r32	2	Runes 15	1900																			0
-Runes 17			1					0	r33	1	Runes 16	2400																					0
+Runes 10			1					0	r19	3	r20	2	Runes 9	240																			0
+Runes 11			1					0	r21	3	r22	2	Runes 10	375																			0
+Runes 12			1					0	r23	3	r24	2	Runes 11	500																			0
+Runes 13			1					0	r25	3	r26	2	Runes 12	650																			0
+Runes 14			1					0	r27	3	r28	2	Runes 13	1000																			0
+Runes 15			1					0	r29	3	r30	2	Runes 14	1400																			0
+Runes 16			1					0	r31	3	r32	2	Runes 15	1800																			0
+Runes 17			1					0	r33	1	Runes 16	2250																					0
 Act 1 Junk			1					0	Potion 1	8	Misc 0	4	Ammo	4																			0
 Act 2 Junk			1					0	Act 1 Junk	2	Potion 2	8	Misc 0	4	Ammo	4																	0
 Act 3 Junk			1					0	Act 2 Junk	2	Potion 3	8	Misc 1	4	Ammo	4																	0
