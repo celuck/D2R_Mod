@@ -36191,5 +36191,22 @@
     "ptBR": "\n%s\n%s\nMarca do Lobo:\nAtaques de Lobisomem concedem Marca por %s",
     "ruRU": "\n%s\n%s\nЗнак волка:\nатаки в облике волка накладывают метку на %s",
     "zhCN": "\n%s\n%s\n恶狼印记:\n狼人攻击时会获得印记，持续 %s"
+  },
+  {
+    "id": 55025,
+    "Key": "Firedpfrw",
+    "enUS": "%d%% Fire Damage per 1%% Faster Run/Walk",
+    "zhTW": "%0：每 %2 級電能彈數量 %+1",
+    "deDE": "%s: %+d Bolzen alle %d Stufen",
+    "esES": "%s: %+d descarga por cada %d niveles",
+    "frFR": "%s : %+d trait tous les %d niveaux",
+    "itIT": "%s: %+d dardo per %d livelli",
+    "koKR": "%0: %2레벨당 투사체 %+1개",
+    "plPL": "%s: %+d pocisk na %d poziomy",
+    "esMX": "%s: %+d centella cada %d niveles",
+    "jaJP": "%s: ボルト数%+d（%dレベルごと）",
+    "ptBR": "%s: %+d seta a cada %d níveis",
+    "ruRU": "%s: %+d заряд за %d ур.",
+    "zhCN": "%0: 每%2等级%+1枚"
   }
 ]
