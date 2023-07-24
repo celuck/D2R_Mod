@@ -181,3 +181,4 @@ Runeword180	Frostbite	1			My Mod	weap									ThulIstPulShael	r10	r24	r21	r13			
 Runeword181	Fractured Mind	1			My Mod	helm									FalIo	r19	r16					additionalproj		2	2	ac%		100	150	light		3	5	mana-hit		2	2													0
 Runeword182	Annihilation	1			My Mod	tors									ChamZodJahSur	r32	r33	r31	r29			hit-skill	Bone Spirit	10	35	hit-skill	Chain Lightning	20	25	hit-skill	Frozen Orb	15	20	hit-skill	Fist of the Heavens	15	26	hit-skill	Twister	25	13	hit-skill	Meteor	10	27	res-all		-50	-25	0
 Runeword183	Purifying Flame	1			My Mod	orb									VexTirLem	r26	r03	r20				fire-pierce		20	30	fireskill		3	3	inferno-proj		3	5	oskill	Armageddon	18	22													0
+Runeword184	Calamity	1			My Mod	jave	spea								KoLemIth	r18	r20	r06				hit-skill	Firestorm	25	10	hit-skill	Lightning	20	13	dmg%		100	150	swing2		15	15	res-ltng		10	15	res-fire		10	15					0
