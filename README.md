@@ -219,6 +219,13 @@ New Item Modifiers:
     - Added melee splash affix to jewels
     - Added +# to Cold/Lightning Skills
 
+Added Cube Recipes:
+    - New Cube recipe for endgame currency sink
+        Lem + Ist + Zod + Standard of Heroes + Any body armor:
+        - +25% magic find
+        - +25% gold find
+        - +1 All Skills 
+
 Shortened names of a few items to reduce clutter
 
 Reduced the chance for NoDrop in most scenarios
