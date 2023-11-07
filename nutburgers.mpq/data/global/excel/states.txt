@@ -190,3 +190,4 @@ hidedead	187																											1	1			1																																		
 impale	188																																																																						0
 conflagratingstrike	189																																										conflagplague														100	112	255	255	255										0
 aftershockpass	190																																																																						0
+righteousfire	191					1																																																								paladin_aura_holyfire									0
