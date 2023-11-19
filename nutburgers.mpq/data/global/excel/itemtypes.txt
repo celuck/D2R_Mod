@@ -34,7 +34,7 @@ Hammer	hamm	blun	blbl	id0 lev31	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3		
 Knife	knif	blde	blbl	id0 lev32	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	3	0	3			0							weap	0
 Spear	spea	sppl		id0 lev33	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
 Polearm	pole	sppl		id0 lev34	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Crossbow	xbow	miss		id0 lev35	1	1	rarm	larm	xboq		0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
+Crossbow	xbow	miss	merc	id0 lev35	1	1	rarm	larm	xboq		0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
 Mace	mace	blun	blbl	id0 lev36	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
 Helm	merc			id0 lev37	1	1	head	head			0	0	0	0		1	0	0	2	25	2	40	3	0	3			0							armo	0
 Missile Potion	tpot	thro		id0 lev38	0	1	rarm	larm			1	1	1	1			1	0	0	25	0	40	0	0	3			0							misc	0
