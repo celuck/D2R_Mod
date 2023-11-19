@@ -44,12 +44,36 @@ Sorceress:
 
 Barbarian:
 
+    Changed up masteries to have more interesting stat bonuses and added/changed a few skills
+
     Ricochet:
         - A new throwing skill that will bounce between enemies
 
     Seismic Slam:
         - An improved Leap Attack that now hits a larger radius, leaps much faster but has a 3 second cooldown baseline
         - The AoE portion deals the weapon damage plus the skill damage
+
+    Enrage:
+        - Replaces Concentrate
+        - A new skill that increases and deals damage based on reflected damage
+
+    Blade and Blunt Mastery, Spear and Polearm Mastery, Throwing Mastery:
+        - Adds attack rating, damage and critical strike chance for related weapons
+    
+    Advanced Weapons Mastery:
+        - Adds crushing blow, open wounds and attack speed
+
+    Endurance Mastery:
+        - Gives increased life regeneration and life gained on hit
+
+    Aftershock:
+        - Passive skills that has a chance to cast a small area damage skill from the enemy based on your attack damage
+
+    Iron Skin:
+        - Now also adds flat and percentage reflect damage
+    
+    Spear and Polearm Mastery:
+        - Adds attack rating, damage and critical strike chance
 
 Assassin:
 
