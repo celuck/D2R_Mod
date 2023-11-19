@@ -407,3 +407,4 @@ Crack of the Heavens	403	100	1		1		69	75	cm3	charm		3	5000	lyel	lyel						pierce
 Rotting Fissure	404	100	1		1		69	75	cm3	charm		3	5000	lgrn	lgrn						pierce-immunity-poison		300	300	res-pois		-90	-70																																										0
 Bone Break	405	100	1		1		69	75	cm3	charm		3	5000	whit	whit						pierce-immunity-damage		300	300	red-dmg%		-20	-10																																										0
 Black Cleft	406	100	1		1		69	75	cm3	charm		3	5000	lgry	lgry						pierce-immunity-magic		300	300	res-mag		-65	-45																																										0
+Spiked Carapace	407	100	1		1		65	56	urs	Great Hauberk		3	5000	blac	blac						thorns/lvl	15			ac%		150	250	balance3		15	15	gethit-skill	Taunt	15	10	red-dmg		20	20																														0

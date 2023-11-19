@@ -237,7 +237,7 @@ item_absorb_cold_perlevel	234		1	6											207	340		6	0	6	0			2	3	level	item_a
 item_absorb_fire_perlevel	235		1	6											207	340		6	0	6	0			2	3	level	item_absorbfire										28	19		ModStre9o	ModStre9o	increaseswithplaylevelX								2	0
 item_absorb_ltng_perlevel	236		1	6											207	340		6	0	6	0			2	3	level	item_absorblight										30	19		ModStre9q	ModStre9q	increaseswithplaylevelX								2	0
 item_absorb_pois_perlevel	237		1	6											207	340		6	0	6	0			2	3	level	item_absorbmagic																							2	0
-item_thorns_perlevel	238		1	6											55	256		6	0	5	0			2	3	level	item_attackertakesdamage										12	19		ModStr1v	ModStr1v	increaseswithplaylevelX									0
+item_thorns_perlevel	238		1	6											55	256		6	0	5	0			2	1	level	item_attackertakesdamage										12	19		ModStr1v	ModStr1v	increaseswithplaylevelX									0
 item_find_gold_perlevel	239		1	6											42	256		6	0	6	0			2	3	level	item_goldbonus										9	19		ModStr1w	ModStr1w	increaseswithplaylevelX								2	0
 item_find_magic_perlevel	240		1	6											814	1024		6	0	6	0			2	3	level	item_magicbonus										7	19		ModStr1x	ModStr1x	increaseswithplaylevelX								2	0
 item_regenstamina_perlevel	241		1	6											79	256		6	0	6	0			2	3	level	staminarecoverybonus										47	19		ModStr3v	ModStr3v	increaseswithplaylevelX								2	0
