@@ -707,5 +707,11 @@
     "ricochet": "ricochet_missile",
     "ricochet_hit": "null",
     "proc_splashdamage": "b_a_yell_shock_wave_01",
-    "aftershock": "expansion_shockwave"
+    "aftershock": "expansion_shockwave",
+    "glacialcascade": "null",
+    "glacialcascaderock": "ice_orb",
+    "glacialcascadenova": "null",
+    "glacialcascadetail": "meteor_tail",
+    "glacialcascadeexplode": "ice_arrow_explode",
+    "efficacioustoxin": "efficacious_toxin"
 }
